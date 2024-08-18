@@ -313,6 +313,12 @@ p{
     margin-bottom: 15px;
 }
 
+.link ul li i {
+    margin-right: 10px;
+    color: #e9edf1;
+    font-size: 1.2em; 
+}
+
 @media(max-width:991px){
     .menu{
         padding: 30px;
