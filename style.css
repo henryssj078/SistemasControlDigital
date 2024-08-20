@@ -25,6 +25,7 @@ font-family: 'Poppins', sans-serif ;
     min-height: 70vh;
     display: flex;
     align-items: center;
+    padding-top: 70px;
 }
 
 .header-content img{
@@ -45,6 +46,9 @@ font-family: 'Poppins', sans-serif ;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.8); 
+    z-index: 1000; 
+    padding: 10px 0; 
 }
 
 .logo {
